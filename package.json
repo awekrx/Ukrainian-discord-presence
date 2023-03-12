@@ -1,0 +1,21 @@
+{
+    "name": "ukrainian-presence",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./dist/index.js",
+    "scripts": {
+        "start": "tsc && electron ."
+    },
+    "author": "awekrx",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "cheerio": "^1.0.0-rc.12",
+        "discord-rpc": "^4.0.1"
+    },
+    "devDependencies": {
+        "@types/discord-rpc": "^4.0.3",
+        "@types/electron": "^1.6.10",
+        "electron": "^23.1.3"
+    }
+}
