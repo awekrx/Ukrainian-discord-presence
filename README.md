@@ -2,7 +2,13 @@
 
 Доброї доби, козаче. Якщо ти це читаєш, то ти справжній патріот.
 А тепер підемо за інструкцією:
-![preview](images/preview.png)
+
+<p align="center">
+<image
+  src="./images/preview.png"
+  alt="preview"
+  >
+</p>
 
 - Завантаж [установник](<https://github.com/awekrx/Ukrainian-discord-presence/releases/download/1.0.0/Ukrainian.Presence.exe>)
 - Запускай його
