@@ -2,6 +2,7 @@
 
 Доброї доби, козаче. Якщо ти це читаєш, то ти справжній патріот.
 А тепер підемо за інструкцією:
+![preview](images/preview.png)
 
 - Завантаж [установник](<https://github.com/awekrx/Ukrainian-discord-presence/releases/download/1.0.0/Ukrainian.Presence.exe>)
 - Запускай його
